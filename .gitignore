@@ -1,0 +1,29 @@
+# Secrets and authentication
+*.key
+*.pem
+*.pfx
+*.cer
+*.crt
+*.secrets.*
+.env
+.env.*
+secrets/
+credentials/
+tokens/
+recovery-codes/
+
+# Exports that may contain tenant or user data
+exports/raw/
+*.pst
+*.ost
+
+# Local tooling
+.vscode/settings.json
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+~$*
