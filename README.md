@@ -42,6 +42,16 @@ The project demonstrates practical experience with:
 7. [Service operations, intake, and workflow automation](docs/07-service-operations-intake-and-workflow-automation.md)
 8. [Hardening, monitoring, and handover](docs/08-hardening-monitoring-and-handover.md)
 
+## Operations Case Studies
+
+### Windows Local Administrator Access Recovery
+
+Diagnosed and recovered local administrator access on a Windows 11 Pro workstation managed through Microsoft Entra ID and Microsoft Intune.
+
+The case study covers PowerShell diagnostics, Windows LAPS investigation, authorized recovery, and post-recovery verification, supported by four sanitized screenshots.
+
+[View the Windows Local Administrator Recovery Case Study](docs/case-studies/windows-local-admin-recovery.md)
+
 ## Architecture overview
 
 ```mermaid
